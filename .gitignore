@@ -1,0 +1,15 @@
+# Data files
+*.csv
+*.json
+
+# Generated output
+classification_results.png
+
+# Environment and secrets
+.env
+
+# Local dependencies
+.venv/
+
+# Claude Code local config
+.claude/
