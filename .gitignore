@@ -3,7 +3,7 @@
 *.json
 
 # Generated output
-classification_results.png
+comparison_results.png
 
 # Environment and secrets
 .env
