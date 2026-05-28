@@ -301,7 +301,6 @@ Full pinned dependency list in `requirements.txt`.
 
 **Ashish Siwach** — MSc Business Analytics (Distinction), University of Exeter
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ashishsiwach.com-blue)](https://ashishsiwach.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@AshishSiwach-black?logo=github)](https://github.com/AshishSiwach)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashish--siwach-0077B5?logo=linkedin)](https://www.linkedin.com/in/ashish-siwach)
 
